@@ -1,0 +1,37 @@
+{
+	"group" : "2IGPT",
+	"students": [
+		{
+			"id": "1",
+			"firstname": "Albert",
+			"lastname": "Levert",
+			"age": 26,
+			"married": false,
+			"sex": "H"
+		},
+		{
+			"id": "2",
+			"firstname": "Jean",
+			"lastname": "Dupond",
+			"age": 32,
+			"married": true,
+			"sex": "F"
+		},
+		{
+			"id": "3",
+			"firstname": "Terrieur",
+			"lastname": "Alain",
+			"age": 36,
+			"married": false,
+			"sex": "F"
+		},
+		{
+			"id": "4",
+			"firstname": "Terrieur",
+			"lastname": "Alex",
+			"age": 36,
+			"married": true,
+			"sex": "F"
+		}
+	]
+}
